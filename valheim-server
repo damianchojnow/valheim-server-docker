@@ -2,7 +2,7 @@
 cd /opt/valheim
 valheim_server="/opt/valheim/valheim_server.x86_64"
 valheim_server_pid=-1
-SERVER_NAME=Darneyes server
+SERVER_NAME=Kubullo-Valhalla
 SERVER_PORT=${SERVER_PORT:-2456}
 WORLD_NAME=Niflheim
 SERVER_PASS=kubullo
