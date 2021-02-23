@@ -2,10 +2,10 @@
 cd /opt/valheim
 valheim_server="/opt/valheim/valheim_server.x86_64"
 valheim_server_pid=-1
-SERVER_NAME=${SERVER_NAME:-My Server}
+SERVER_NAME=Darneyes server
 SERVER_PORT=${SERVER_PORT:-2456}
-WORLD_NAME=${WORLD_NAME:-Dedicated}
-SERVER_PASS=${SERVER_PASS:-secret}
+WORLD_NAME=Niflheim
+SERVER_PASS=kubullo
 SERVER_PUBLIC=${SERVER_PUBLIC:-1}
 timeout=20
 kill_signal=TERM
